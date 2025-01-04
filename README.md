@@ -1,4 +1,4 @@
-Customer Churn Prediction.
+#Customer Churn Prediction.
 
 OBJECTIVE:<br/>
 The goal of this project is to predict customer churn in the Indian telecom sector using demographic and usage data.<br/>
